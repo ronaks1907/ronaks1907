@@ -54,11 +54,10 @@ Check out my repositories for more 👉 [GitHub Profile](https://github.com/rona
 📩 **Email**: [ronaks1907@gmail.com](mailto:ronaks1907@gmail.com)  
 
 ---
-
 ### 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronaks1907&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaks1907&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronaks1907&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ### 🎯 Top Languages  
