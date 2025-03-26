@@ -27,7 +27,7 @@
 - **Infrastructure as Code**: Built scalable AWS architectures with Terraform & CloudFormation.  
 - **Monitoring Solutions**: Implemented observability using Prometheus, Grafana, and ELK for containerized workloads.  
 
-Check out my repositories for more 👉 [GitHub Profile](https://github.com/ronaks9065)  
+Check out my repositories for more 👉 [GitHub Profile](https://github.com/ronaks1907)  
 
 ---
 
