@@ -9,16 +9,26 @@
 ---
 
 ## 🛠 Tech Stack  
-### 🚀 DevOps & Cloud  
-- **Cloud**: AWS (EC2, Lambda, EKS, RDS, S3)  
-- **IaC**: Terraform, CloudFormation  
-- **Containerization & Orchestration**: Docker, Kubernetes  
-- **CI/CD**: Jenkins, Bitbucket Pipelines, GitHub Actions, GitLab CI/CD, AWS CodePipeline  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK (Elasticsearch, Logstash, Kibana), New Relic, DataDog  
 
-### 🖥 Programming & Scripting  
-- **Languages**: Python, Shell Scripting  
-- **Version Control**: Git, GitHub, Bitbucket, GitLab  
+### 🚀 Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+### ⚡ CI/CD & Automation  
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+### 📊 Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK-Stack-%23E8521C.svg?style=for-the-badge&logo=elasticstack&logoColor=white)  
+![New Relic](https://img.shields.io/badge/New_Relic-%23009CDA.svg?style=for-the-badge&logo=newrelic&logoColor=white)  
 
 ---
 
@@ -27,7 +37,7 @@
 - **Infrastructure as Code**: Built scalable AWS architectures with Terraform & CloudFormation.  
 - **Monitoring Solutions**: Implemented observability using Prometheus, Grafana, and ELK for containerized workloads.  
 
-Check out my repositories for more 👉 [GitHub Profile](https://github.com/ronaks1907)  
+Check out my repositories for more 👉 [GitHub Profile](https://github.com/ronaks9065)  
 
 ---
 
@@ -42,5 +52,18 @@ Check out my repositories for more 👉 [GitHub Profile](https://github.com/rona
 💼 **LinkedIn**: [ronak-prajapati19](https://www.linkedin.com/in/ronak-prajapati19/)  
 📜 **Blog**: [Medium](https://medium.com/@ronaks1907)  
 📩 **Email**: [ronaks1907@gmail.com](mailto:ronaks1907@gmail.com)  
+
+---
+
+### 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaks9065&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaks9065&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+### 🎯 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaks9065&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
 
 💡 _Always open to collaborations & discussions on DevOps, Cloud, and Automation!_ 🚀  
